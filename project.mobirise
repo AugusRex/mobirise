@@ -25,8 +25,7 @@
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/water-wallpaper-50-1-610x381-128x79.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "thanhphotoimuanuoclu.com": {
@@ -438,7 +437,7 @@
             }
           },
           "title": "XẢ RÁC BỪA BÃI,KÊNH RẠCH BỊ LẤN CHIẾM",
-          "text": "<b>\"Trước khi xuất hiện mưa, chúng tôi đã triển khai vớt rác trước miệng thu nước và bố trí người trực những nơi có khả năng gây ngập nhưng cũng chỉ hạn chế được một phần\", đại diện Trung tâm chống ngập cho biết.</b>",
+          "text": "<b>\"Trước khi xuất hiện mưa, chúng tôi đã triển khai vớt rác trước miệng thu nước và bố trí người trực những nơi có khả năng gây ngập nhưng cũng chỉ hạn chế được một phần\"- đại diện Trung tâm chống ngập cho biết.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">THÊM</a>"
         }
       ]
