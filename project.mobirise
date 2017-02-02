@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/water-wallpaper-50-1-610x381-128x79.png",
     "noImageResize": "",
@@ -500,7 +500,7 @@
             "B": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "48px",
+              "font-size": "46px",
               "color": "#ffffff",
               "text-align": "right"
             },
@@ -587,7 +587,7 @@
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-p",
+          "_anchor": "slider3-1a",
           "articleLayout": false
         },
         {
