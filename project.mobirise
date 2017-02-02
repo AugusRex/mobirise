@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "thanhphotoimuanuoclu.com",
+    "currentPage": "index.html",
     "name": "GDCD",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@"
   },
   "pages": {
-    "thanhphotoimuanuoclu.com": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
