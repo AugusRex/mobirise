@@ -19,7 +19,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -484,26 +483,18 @@ h6,
 #msg-box5-n P {
   font-family: 'Roboto', sans-serif;
 }
-#slider3-1a B {
-  font-family: 'Roboto', sans-serif;
-  font-size: 46px;
-  color: #ffffff;
-  text-align: right;
-}
-#slider3-1a P {
-  font-size: 60px;
-  font-family: 'Roboto', sans-serif;
+#slider-1e P {
   text-align: left;
-}
-#slider3-1a .btn {
-  font-size: 11px;
-}
-#slider3-1a SPAN {
-  font-size: 60px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
 }
 #msg-box8-r .mbr-section-title,
 #msg-box8-r p {
   color: #fff;
+}
+#msg-box5-1g H3 {
+  text-align: center;
+  color: #f7da64;
 }
 #msg-box8-s .mbr-section-title,
 #msg-box8-s p {
@@ -520,11 +511,7 @@ h6,
   font-family: 'Roboto', sans-serif;
   font-size: 60px;
 }
-#msg-box7-y .mbr-section-title,
-#msg-box7-y .lead p {
-  color: #fff;
-}
-#msg-box7-y H3 {
+#header2-1d .mbr-section-title {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 60px;
