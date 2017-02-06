@@ -1,10 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -462,7 +464,7 @@ h6,
 }
 #testimonials1-m .card-block P {
   text-align: left;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 18px;
 }
 #testimonials1-m .mbr-section-title {
@@ -487,6 +489,12 @@ h6,
   text-align: left;
   font-family: 'Roboto', sans-serif;
   font-size: 48px;
+}
+#slider-1e B {
+  font-family: 'Lora', serif;
+}
+#slider-1e SPAN {
+  font-family: 'Lora', serif;
 }
 #msg-box8-r .mbr-section-title,
 #msg-box8-r p {
