@@ -73,7 +73,7 @@
           },
           "title": "THÀNH PHỐ TÔI MÙA NƯỚC LŨ",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÌNH TRẠNG</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">NGUYÊN NHÂN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-r\" data-toolbar=\"-mbrBtnMove\">HẬU QUẢ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-s\" data-toolbar=\"-mbrBtnMove\">BIỆN PHÁP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STAFF</a>     "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÌNH TRẠNG</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">NGUYÊN NHÂN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-r\" data-toolbar=\"-mbrBtnMove\">HẬU QUẢ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-s\" data-toolbar=\"-mbrBtnMove\">BIỆN PHÁP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box8-14\" data-toolbar=\"-mbrBtnMove\">STAFF</a>     "
         },
         {
           "_styles": {
@@ -307,7 +307,7 @@
           },
           "testimonial": [
             {
-              "text": "<p><span style=\"font-style: normal;\"><b>\"Hệ thống cống mới xây lại làm theo thiết kế từ những năm 2004-2007 nên đến giờ cũng đã lạc hậu.</b></span><b style=\"font-size: 1.125rem; font-style: normal; line-height: 2;\">Cụ thể: Theo thiết kế hệ thống cống mới xây hiện nay chỉ chịu được những cơn mưa có vũ lượng 85-92mm kéo dài khoảng 3 giờ. Khi gặp những trận mưa lớn hơn thì hệ thống cống thoát nước mới của thành phố cũng không tiêu thoát kịp.\"</b></p><p><br></p>",
+              "text": "<p><b>\"Hệ thống cống mới xây lại làm theo thiết kế từ những năm 2004-2007 nên đến giờ cũng đã lạc hậu.</b><b style=\"font-size: 1.125rem; line-height: 2;\">Cụ thể: Theo thiết kế hệ thống cống mới xây hiện nay chỉ chịu được những cơn mưa có vũ lượng 85-92mm kéo dài khoảng 3 giờ. Khi gặp những trận mưa lớn hơn thì hệ thống cống thoát nước mới của thành phố cũng không tiêu thoát kịp.\"</b></p><p><br></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/holongphi-133x160.jpg",
@@ -325,7 +325,7 @@
               "authorBio": "Viện trưởng Viện Nghiên cứu nước và biến đổi khí hậu thuộc Đại học Quốc gia TPHCM<br>Phó ban Điều hành chương trình chống ngập TPHCM"
             },
             {
-              "text": "<p><b style=\"font-style: normal;\">&nbsp;“Các công trình của Nhà nước, công ty tư nhân và của người dân mọc lên dày đặc.<span style=\"font-size: 1.125rem; line-height: 2;\">Trong quá trình xây dựng, các chủ đầu tư, các chủ nhà đã lấp các ao, hồ, kênh - rạch để lấy mặt bằng xây dựng. Việc lấp kênh rạch đã góp phần lớn làm trầm trọng thêm tình trạng ngập nước ở TPHCM.”&nbsp;</span></b></p>",
+              "text": "<p><b>&nbsp;“Các công trình của Nhà nước, công ty tư nhân và của người dân mọc lên dày đặc.<span style=\"font-size: 1.125rem; line-height: 2;\">Trong quá trình xây dựng, các chủ đầu tư, các chủ nhà đã lấp các ao, hồ, kênh - rạch để lấy mặt bằng xây dựng. Việc lấp kênh rạch đã góp phần lớn làm trầm trọng thêm tình trạng ngập nước ở TPHCM.”&nbsp;</span></b></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/thay-hoa-106x160.jpg",
@@ -496,6 +496,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -568,15 +576,7 @@
             "showBullets": false
           },
           "_anchor": "slider-1e",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -617,6 +617,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#f7da64"
+            }
+          },
           "_anchor": "msg-box5-1g",
           "_params": {
             "imageSize": "36",
@@ -663,13 +669,7 @@
           },
           "title": "HOẠT ĐỘNG XÃ HỘI<br>GIAO THÔNG ĐI LẠI BẤT TIỆN",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "color": "#f7da64"
-            }
-          }
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
         },
         {
           "_tags": [
@@ -892,6 +892,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header2-1d",
           "_params": {
             "imageSize": "70",
@@ -937,15 +945,7 @@
           },
           "title": "ĐẨY NHANH TIẾN ĐỘ XÂY DỰNG CÁC HỒ ĐIỀU HÒA",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1047,6 +1047,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1213,12 +1218,7 @@
             "showBullets": true
           },
           "_anchor": "slider-15",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "features4",
@@ -1422,6 +1422,19 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "contacts1-17",
           "_params": {
             "paddingTop": "1",
@@ -1453,20 +1466,7 @@
           },
           "text1": "",
           "text2": "",
-          "text3": "<b>Sản phẩm thuộc bản quyền<br>của Tổ High-lớp 11.3 <br>trường THTH-ĐHSP</b><br><br>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "16px"
-            }
-          }
+          "text3": "<b>Sản phẩm thuộc bản quyền<br>của Tổ High-lớp 11.3 <br>trường THTH-ĐHSP</b><br><br>"
         }
       ]
     }
