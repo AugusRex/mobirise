@@ -307,7 +307,7 @@
           },
           "testimonial": [
             {
-              "text": "<p><b>\"Hệ thống cống mới xây lại làm theo thiết kế từ những năm 2004-2007 nên đến giờ cũng đã lạc hậu.</b><b style=\"font-size: 1.125rem; line-height: 2;\">Cụ thể: Theo thiết kế hệ thống cống mới xây hiện nay chỉ chịu được những cơn mưa có vũ lượng 85-92mm kéo dài khoảng 3 giờ. Khi gặp những trận mưa lớn hơn thì hệ thống cống thoát nước mới của thành phố cũng không tiêu thoát kịp.\"</b></p><p><br></p>",
+              "text": "<p><span style=\"font-style: normal;\"><b>\"Hệ thống cống mới xây lại làm theo thiết kế từ những năm 2004-2007 nên đến giờ cũng đã lạc hậu.</b><b style=\"font-size: 1.125rem; line-height: 2;\">Cụ thể: Theo thiết kế hệ thống cống mới xây hiện nay chỉ chịu được những cơn mưa có vũ lượng 85-92mm kéo dài khoảng 3 giờ. Khi gặp những trận mưa lớn hơn thì hệ thống cống thoát nước mới của thành phố cũng không tiêu thoát kịp.\"</b></span></p><p><br></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/holongphi-133x160.jpg",
@@ -325,7 +325,7 @@
               "authorBio": "Viện trưởng Viện Nghiên cứu nước và biến đổi khí hậu thuộc Đại học Quốc gia TPHCM<br>Phó ban Điều hành chương trình chống ngập TPHCM"
             },
             {
-              "text": "<p><b>&nbsp;“Các công trình của Nhà nước, công ty tư nhân và của người dân mọc lên dày đặc.<span style=\"font-size: 1.125rem; line-height: 2;\">Trong quá trình xây dựng, các chủ đầu tư, các chủ nhà đã lấp các ao, hồ, kênh - rạch để lấy mặt bằng xây dựng. Việc lấp kênh rạch đã góp phần lớn làm trầm trọng thêm tình trạng ngập nước ở TPHCM.”&nbsp;</span></b></p>",
+              "text": "<p><b style=\"font-style: normal;\">&nbsp;“Các công trình của Nhà nước, công ty tư nhân và của người dân mọc lên dày đặc.<span style=\"font-size: 1.125rem; line-height: 2;\">Trong quá trình xây dựng, các chủ đầu tư, các chủ nhà đã lấp các ao, hồ, kênh - rạch để lấy mặt bằng xây dựng. Việc lấp kênh rạch đã góp phần lớn làm trầm trọng thêm tình trạng ngập nước ở TPHCM.”&nbsp;</span></b></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/thay-hoa-106x160.jpg",
@@ -521,7 +521,7 @@
                 "showTitle": false,
                 "title": "FULL SCREEN SLIDER",
                 "showText": true,
-                "text": "<b>Theo thống kê của Sở Tài nguyên và Môi trường TP.HCM, mỗi ngày TP.HCM có khoảng 40 tấn rác và 70.000 m3 nước thải xả ra các tuyến kênh rạch, sông ngòi</b>",
+                "text": "<b style=\"font-style: normal;\">Theo thống kê của Sở Tài nguyên và Môi trường TP.HCM, mỗi ngày TP.HCM có khoảng 40 tấn rác và 70.000 m3 nước thải xả ra các tuyến kênh rạch, sông ngòi</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
