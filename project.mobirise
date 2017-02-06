@@ -122,9 +122,10 @@
               "text-align": "left"
             },
             ".mbr-section-lead SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "text-align": "right"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "right",
+              "font-size": "30px"
             }
           },
           "_anchor": "header1-d",

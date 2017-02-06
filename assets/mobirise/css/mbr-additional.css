@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -448,8 +447,9 @@ h6,
   text-align: left;
 }
 #header1-d .mbr-section-lead SPAN {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lora', serif;
   text-align: right;
+  font-size: 30px;
 }
 #slider-7 H2 {
   font-size: 60px;
