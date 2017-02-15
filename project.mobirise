@@ -261,6 +261,22 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#f3c649",
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-1j",
           "_params": {
             "parallax": true,
@@ -282,29 +298,20 @@
             "showButtons": false
           },
           "title": "ĐÓN TẾT BẰNG MỘT <br>\"MÙA NƯỚC LŨ\"",
-          "text": "<b><span style=\"font-style: normal;\">+Vào chiều 25/1/2017 (ngày 28 tết), một cơn mưa lớn bất chợt đổ xuống khiến người dân không kịp trở tay. Hậu quả khiến cho người dân bị thiệt hại nặng nề.</span><span style=\"font-style: normal;\">Điển hình là những người bán hoa mai cho biết. Những chậu cây mai bị ngập sâu trong nước phèn, nước mặn,điều này có thể khiến cho bông xì, hết nở.</span><br></b><span style=\"font-style: normal;\"><b>+Vào khoảng 16 giờ ngày 2/2/2017 (mùng 6 tết), một cơn mưa lớn bao phủ trên diện rộng ở Sài Gòn làm nhiều người di chuyển trên đường hết sức khó khăn do tầm nhìn hạn chế.&nbsp;</b><br></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#f3c649",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "text": "<b><span style=\"font-style: normal;\">+Vào chiều 25/1/2017 (ngày 28 tết), một cơn mưa lớn bất chợt đổ</span></b><br><b><span style=\"font-style: normal;\">xuống khiến người dân không kịp trở tay. Hậu quả khiến cho người dân bị thiệt hại nặng nề.</span><span style=\"font-style: normal;\">Điển hình là những người bán hoa mai cho biết. Những chậu cây mai bị ngập sâu trong nước phèn, nước mặn,điều này có thể khiến cho bông xì, hết nở.</span><br></b><span style=\"font-style: normal;\"><b>+Vào khoảng 16 giờ ngày 2/2/2017 (mùng 6 tết), một cơn mưa lớn bao phủ trên diện rộng ở Sài Gòn làm nhiều người di chuyển trên đường hết sức khó khăn do tầm nhìn hạn chế.&nbsp;</b><br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "48px",
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -387,13 +394,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1k",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px",
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -985,6 +986,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1055,12 +1061,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1n",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
