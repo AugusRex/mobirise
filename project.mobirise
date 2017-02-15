@@ -1383,7 +1383,8 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "23px"
+              "font-size": "23px",
+              "color": "#ffffff"
             }
           },
           "_params": {
