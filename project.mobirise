@@ -291,7 +291,8 @@
             },
             ".mbr-section-lead SPAN": {
               "color": "#f3c649",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "font-family": "'Lora', serif",
@@ -1380,7 +1381,8 @@
               "font-size": "48px"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "23px"
             }
           },
           "_params": {

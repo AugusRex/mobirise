@@ -466,6 +466,7 @@ h6,
 #header1-1j .mbr-section-lead SPAN {
   color: #f3c649;
   font-size: 30px;
+  text-align: left;
 }
 #header1-1j .mbr-section-lead {
   font-family: 'Lora', serif;
@@ -562,6 +563,7 @@ h6,
 }
 #slider-15 P {
   text-align: left;
+  font-size: 23px;
 }
 #features7-16 .card-subtitle {
   color: #bcbcbc;
