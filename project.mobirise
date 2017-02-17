@@ -263,6 +263,15 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-lead": {
+              "color": "#f3c649",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-1i",
           "_params": {
             "parallax": true,
@@ -283,17 +292,9 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-lead": {
-              "color": "#f3c649"
-            }
-          }
+          "title": "ĐÓN TẾT BẰNG MỘT \"MÙA NƯỚC LŨ\"",
+          "text": "<span style=\"font-style: normal;\"><b>+Vào chiều 25/1/2017 (ngày 28 tết), một cơn mưa lớn bất chợt đổ<br>xuống khiến người dân không kịp trở tay. Hậu quả khiến cho người dân bị thiệt hại nặng nề.Điển hình là những người bán hoa mai cho biết. Những chậu cây mai bị ngập sâu trong nước phèn, nước mặn,điều này có thể khiến cho bông xì, hết nở.<br>+Vào khoảng 16 giờ ngày 2/2/2017 (mùng 6 tết), một cơn mưa lớn bao phủ trên diện rộng ở Sài Gòn làm nhiều người di chuyển trên đường hết sức khó khăn do tầm nhìn hạn chế.&nbsp;</b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -314,7 +315,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
+                "title": "Chỉ sau một cơn mưa thôi,chúng ta đã biết được thế nào là \"hoa tàn mai dại\"...",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -328,7 +329,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "VIDEO SLIDE",
+                "title": "\"Mấy năm qua chưa khi nào Tết mà mưa cả. Mấy chậu hoa hồng này bình thường bán 60.000 đồng, giờ chỉ có thể bán nửa giá mà sợ không ai mua\"- một chú bán hoa cho biết.",
                 "showText": false,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "showButtons": false,
@@ -342,35 +343,35 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "IMAGE SLIDE",
+                "title": "Ông Danh xót xa khi vườn mai sắp đến ngày bán Tết",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/nuoc-ngapss29-2000x1280.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/12-m-660x0-2000x1315.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
+                "title": "Những người bán mai cho biết, việc trời mưa lớn đã khiến hoa rụng cánh và kích thích nụ nở sớm nên sẽ khó bán.",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/tphcm-ngap-2000x1364.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
+                "title": "Không chỉ có hoa mà đến người dân cũng muốn \"thiếu oxi\" với tình trạng \"úng nước\" như thế này",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -865,7 +866,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/images-1-2000x1343-800x537.jpg",
                 "image": "@PROJECT_PATH@/assets/images/images-1-2000x1343.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-2-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-2-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1485347910-m-660x0-2000x1263-800x505.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-1485347910-m-660x0-2000x1263.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nuoc-ngapss29-2000x1280-800x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nuoc-ngapss29-2000x1280.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "0",
@@ -1027,8 +1058,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
+                "showTitle": true,
+                "title": "Bù lại,đây là cơ hội cho các \"nhà làm phim\" trẻ Việt Nam&nbsp;",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -1715,7 +1746,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "XIN CẢM ƠN SỰ QUAN TÂM CỦA CÁC BẠN<br><br>XIN GỞI LỜI CẢM ƠN ĐẶC BIỆT ĐẾN THẦY PHẠM MẠNH THẮNG ĐÃ HƯỚNG DẪN CHÚNG EM",
+          "title": "XIN CẢM ƠN SỰ QUAN TÂM CỦA CÁC BẠN<br><br>XIN GỞI LỜI CẢM ƠN ĐẶC BIỆT ĐẾN THẦY <br>PHẠM MẠNH THẮNG<br> ĐÃ HƯỚNG DẪN CHÚNG EM",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
