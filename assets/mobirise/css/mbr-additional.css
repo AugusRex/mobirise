@@ -20,8 +20,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -460,21 +458,11 @@ h6,
 #slider-7 P {
   color: #ffffff;
 }
-#header1-1j .mbr-section-title {
-  font-family: 'Lora', serif;
-}
-#header1-1j .mbr-section-lead SPAN {
+#header1-1i .mbr-section-title {
   color: #f3c649;
-  font-size: 30px;
-  text-align: left;
 }
-#header1-1j .mbr-section-lead {
-  font-family: 'Lora', serif;
-  text-align: left;
-}
-#slider-1k H2 {
-  font-size: 48px;
-  text-align: left;
+#header1-1i .mbr-section-lead {
+  color: #f3c649;
 }
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
@@ -522,12 +510,9 @@ h6,
   text-align: center;
   color: #f7da64;
 }
-#msg-box5-1l H3 {
+#msg-box5-1k H3 {
   text-align: center;
   color: #f7da64;
-}
-#slider-1n H2 {
-  text-align: left;
 }
 #msg-box8-s .mbr-section-title,
 #msg-box8-s p {
@@ -561,11 +546,10 @@ h6,
 }
 #slider-15 H2 {
   font-size: 48px;
+  text-align: center;
 }
 #slider-15 P {
   text-align: left;
-  font-size: 23px;
-  color: #ffffff;
 }
 #features7-16 .card-subtitle {
   color: #bcbcbc;
