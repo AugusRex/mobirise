@@ -17,16 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 58,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/water-wallpaper-50-1-610x381-128x79.png",
     "noImageResize": "",
-    "path": "file:///D:",
+    "path": "file:///H:",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1558,7 +1557,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-20170217-2000x1428.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170217-2000x1428.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
