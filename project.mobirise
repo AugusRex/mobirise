@@ -1557,7 +1557,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-20170217-2000x1428.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170217-2000x1428.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
