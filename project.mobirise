@@ -25,7 +25,7 @@
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/water-wallpaper-50-1-610x381-128x79.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///H:",
     "screenshot": "screenshot.png"
   },
   "pages": {
